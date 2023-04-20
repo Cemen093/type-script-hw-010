@@ -1,0 +1,225 @@
+{
+    "laptops": [
+       {
+          "id": 1,
+          "brand": "Apple",
+          "model": "MacBook Pro 13",
+          "specs": {
+             "processor": "M1 chip",
+             "memory": "8 GB",
+             "storage": "256 GB SSD",
+             "graphics": "Integrated",
+             "display": "13.3-inch Retina display"
+          },
+          "price": 1299
+       },
+       {
+          "id": 2,
+          "brand": "Dell",
+          "model": "XPS 13",
+          "specs": {
+             "processor": "Intel Core i7-1185G7",
+             "memory": "16 GB",
+             "storage": "512 GB SSD",
+             "graphics": "Integrated",
+             "display": "13.4-inch FHD+ Touch Display"
+          },
+          "price": 1599
+       },
+       {
+          "id": 3,
+          "brand": "HP",
+          "model": "Spectre x360 14",
+          "specs": {
+             "processor": "Intel Core i7-1165G7",
+             "memory": "16 GB",
+             "storage": "1 TB SSD",
+             "graphics": "Integrated",
+             "display": "13.5-inch Touch OLED Display"
+          },
+          "price": 1499
+       },
+       {
+          "id": 4,
+          "brand": "Lenovo",
+          "model": "ThinkPad X1 Carbon",
+          "specs": {
+             "processor": "Intel Core i7-1165G7",
+             "memory": "16 GB",
+             "storage": "512 GB SSD",
+             "graphics": "Integrated",
+             "display": "14-inch FHD+ Display"
+          },
+          "price": 1699
+       },
+       {
+          "id": 5,
+          "brand": "Microsoft",
+          "model": "Surface Laptop 4",
+          "specs": {
+             "processor": "AMD Ryzen 7",
+             "memory": "16 GB",
+             "storage": "512 GB SSD",
+             "graphics": "Integrated",
+             "display": "13.5-inch PixelSense Touchscreen"
+          },
+          "price": 1599
+       },
+       {
+          "id": 6,
+          "brand": "Asus",
+          "model": "ZenBook 13",
+          "specs": {
+             "processor": "Intel Core i5-1135G7",
+             "memory": "8 GB",
+             "storage": "512 GB SSD",
+             "graphics": "Integrated",
+             "display": "13.3-inch FHD Display"
+          },
+          "price": 899
+       },
+       {
+          "id": 7,
+          "brand": "Acer",
+          "model": "Swift 5",
+          "specs": {
+             "processor": "Intel Core i7-1165G7",
+             "memory": "16 GB",
+             "storage": "1 TB SSD",
+             "graphics": "Integrated",
+             "display": "14-inch FHD Touch Display"
+          },
+          "price": 1199
+       },
+       {
+          "id": 8,
+          "brand": "LG",
+          "model": "Gram 17",
+          "specs": {
+             "processor": "Intel Core i7-1165G7",
+             "memory": "16 GB",
+             "storage": "512 GB SSD",
+             "graphics": "Integrated",
+             "display": "17-inch WQXGA (2560 x 1600) IPS Display"
+          },
+          "price": 1799
+       },
+       {
+          "id": 9,
+          "brand": "Razer",
+          "model": "Blade Stealth 13",
+          "specs": {
+             "processor": "Intel Core i7-1165G7",
+             "memory": "16 GB",
+             "storage": "512 GB SSD",
+             "graphics": "NVIDIA GeForce GTX 1650 Ti",
+             "display": "13.3-inch FHD+ Display"
+          },
+          "price": 1799
+       },
+       {
+          "id": 10,
+          "brand": "Huawei",
+          "model": "MateBook X Pro",
+          "specs": {
+             "processor": "Intel Core i7-1165G7",
+             "memory": "16 GB",
+             "storage": "1 TB SSD",
+             "graphics": "NVIDIA GeForce MX250",
+             "display": "13.9-inch 3K Touchscreen Display"
+          },
+          "price": 1899
+       },
+       {
+          "id": 11,
+          "brand": "MSI",
+          "model": "GS66 Stealth",
+          "specs": {
+             "processor": "Intel Core i7-10750H",
+             "memory": "16 GB",
+             "storage": "512 GB SSD",
+             "graphics": "NVIDIA GeForce RTX 2070 Max-Q",
+             "display": "15.6-inch FHD IPS Display"
+            },
+            "price": 1999
+         },
+         {
+            "id": 12,
+            "brand": "Gigabyte",
+            "model": "Aero 15 OLED",
+            "specs": {
+               "processor": "Intel Core i7-9750H",
+               "memory": "16 GB",
+               "storage": "1 TB SSD",
+               "graphics": "NVIDIA GeForce RTX 2070",
+               "display": "15.6-inch 4K UHD AMOLED Display"
+            },
+            "price": 2299
+         },
+         {
+            "id": 13,
+            "brand": "Alienware",
+            "model": "m15 R4",
+            "specs": {
+               "processor": "Intel Core i7-10870H",
+               "memory": "16 GB",
+               "storage": "1 TB SSD",
+               "graphics": "NVIDIA GeForce RTX 3070",
+               "display": "15.6-inch FHD Display"
+            },
+            "price": 2599
+         },
+         {
+            "id": 14,
+            "brand": "HP",
+            "model": "Omen 15",
+            "specs": {
+               "processor": "AMD Ryzen 7",
+               "memory": "16 GB",
+               "storage": "512 GB SSD",
+               "graphics": "NVIDIA GeForce RTX 3060",
+               "display": "15.6-inch FHD Display"
+            },
+            "price": 1799
+         },
+         {
+            "id": 15,
+            "brand": "Asus",
+            "model": "ROG Zephyrus S17",
+            "specs": {
+               "processor": "Intel Core i7-11800H",
+               "memory": "32 GB",
+               "storage": "2 TB SSD",
+               "graphics": "NVIDIA GeForce RTX 3080",
+               "display": "17.3-inch WQHD Display"
+            },
+            "price": 3399
+         },
+         {
+            "id": 16,
+            "brand": "Razer",
+            "model": "Blade Pro 17",
+            "specs": {
+               "processor": "Intel Core i7-10875H",
+               "memory": "16 GB",
+               "storage": "512 GB SSD",
+               "graphics": "NVIDIA GeForce RTX 3060",
+               "display": "17.3-inch FHD 360Hz Display"
+            },
+            "price": 2199
+         },
+         {
+            "id": 17,
+            "brand": "Apple",
+            "model": "MacBook Pro 16",
+            "specs": {
+               "processor": "Intel Core i9",
+               "memory": "16 GB",
+               "storage": "512 GB SSD",
+               "graphics": "AMD Radeon Pro 5500M",
+               "display": "16-inch Retina display"
+            },
+            "price": 2399
+         }
+      ]
+   }

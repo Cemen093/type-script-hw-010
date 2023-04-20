@@ -1,0 +1,15 @@
+<div class="laptop-item">
+    <div class="laptop-details">
+        <h2>{{ laptop.brand }} {{ laptop.model }}</h2>
+        <ul>
+          <li>Процессор: {{ laptop.specs.processor }}</li>
+          <li>ОЗУ: {{ laptop.specs.memory }}</li>
+          <li>Хранилище: {{ laptop.specs.storage }}</li>
+          <li>Графика: {{ laptop.specs.graphics }}</li>
+          <li>Дисплей: {{ laptop.specs.display }}</li>
+        </ul>
+    </div>
+    <div class="laptop-price">
+        <h3>{{ laptop.price }} руб.</h3>
+    </div>
+</div>
